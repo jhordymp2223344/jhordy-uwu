@@ -1,5 +1,5 @@
 package Semana3;
-public class UsoDeStrings {
+public class UsoDeStrings     {
     public static void main(String[] args) {
         String palabra = "Cerveza";
         String frase = "¿donde esta mi cerveza?";
