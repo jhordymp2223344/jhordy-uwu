@@ -2,7 +2,7 @@ package Semana3;
 
 import java.util.Scanner;
 
-public class EjercicioDeScanner {
+public class EjercicioDeScanner2 {
     public static void main(String[] args) {
         
         double tasaConversion = 4.20; // 1 euro = 4.20 soles (puedes actualizar esta tasa según sea necesario)
